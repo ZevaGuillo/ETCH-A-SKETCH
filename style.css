@@ -67,13 +67,17 @@ html{
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.50) 0px 2px 4px;
     transition: all 0.1s ease-in-out;
+    color: #262524;
 }
 
 input[type='number']{
     width: 50%;
+    height: 30px;
     border: none;
+    text-align: center;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.50) 0px 2px 4px;
+    background-color: transparent;
 }
 
 button:hover,
